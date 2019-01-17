@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "description": "Utility to extract the content of the first occurence of element x from HTML or Markdown",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "version": "git add --all",
+    "postversion": "git push && git push --tags"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/webmasterish/first-x.git"
