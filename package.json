@@ -1,0 +1,25 @@
+{
+  "name": "first-x",
+  "version": "0.0.1",
+  "description": "Utility to extract the content of the first occurence of element x from HTML or Markdown",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmasterish/first-x.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "webmasterish",
+    "email": "webmasterish@gmail.com",
+    "url": "https://webmasterish.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/webmasterish/first-x",
+  "bugs": {
+    "url": "https://github.com/webmasterish/first-x/issues"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
