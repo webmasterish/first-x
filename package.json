@@ -1,6 +1,6 @@
 {
   "name": "first-x",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Utility to extract the content of the first occurence of element x from HTML or Markdown",
   "main": "index.js",
   "scripts": {
