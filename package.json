@@ -11,7 +11,18 @@
     "type": "git",
     "url": "git+https://github.com/webmasterish/first-x.git"
   },
-  "keywords": [],
+  "keywords": [
+    "html",
+    "markdown",
+    "regex",
+    "utility",
+    "extract",
+    "content",
+    "paragraph",
+    "image",
+    "header",
+    "blockquote"
+  ],
   "author": {
     "name": "webmasterish",
     "email": "webmasterish@gmail.com",
